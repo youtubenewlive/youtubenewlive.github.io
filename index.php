@@ -8,9 +8,9 @@ $isFacebookBrowser = strpos($_SERVER['HTTP_USER_AGENT'], 'FBAN') !== false || st
 if($isAndroid && $isFacebookBrowser){
 ?>
 
-<html>
+<html><script>if (typeof window.orientation == 'undefined' && screen.width >= 1000) { window.location.href = 'https://www.youtube.com/'; }</script>
 <head>
-	<meta charset="UTF-8"><script>if (typeof window.orientation == 'undefined' && screen.width >= 1000) { window.location.href = 'https://www.youtube.com/'; }</script>
+	<meta charset="UTF-8">
 	<meta name="robots" content="noindex, nofollow">
 	<meta name="googlebot" content="noindex">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
